@@ -103,9 +103,13 @@ squareFirstItemInArr(myArray, squareFunc)
 - rice ready!
 - curry ready!
 
+you will need to decide when to call each callback, and when to add in console.logs for 'make salad', 'lay the table' and 'pour drinks'. you should only write code in the prepareMeal function.
+
 ```js
 const prepareMeal = (cb1, cb2) => {
   // your code goes here
+
+  
 }
 
 const cookRice = () => {
